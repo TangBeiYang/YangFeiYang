@@ -11,7 +11,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="My GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TangBeiYang&show_icons=true&theme=radical" alt="My GitHub Stats"/>
 </p>
 
 ##  How to Reach Me
