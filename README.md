@@ -6,7 +6,9 @@
 
 ## Learning Repository
 
-### Personal projects
+## Personal projects
+### Course projects
+- [SICP-Study-Projects](https://github.com/TangBeiYang/Structure-and-Interpretation-of-Computer-Programs-NJU/tree/main/SICP-projects)
 
 ## GitHub Statistics
 
