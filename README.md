@@ -9,6 +9,7 @@
 ## Personal projects
 ### Course projects
 - [SICP-Study-Projects](https://github.com/TangBeiYang/Structure-and-Interpretation-of-Computer-Programs-NJU/tree/main/SICP-projects)
+- [Programming-Foundation-Projects](https://github.com/TangBeiYang/Programming-Foundation-NJU/tree/main/project)
 
 ## GitHub Statistics
 
