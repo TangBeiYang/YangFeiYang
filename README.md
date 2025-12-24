@@ -5,7 +5,9 @@
 **Goal**: Documenting my CS learning journey through this repository
 
 ## Learning Repository
-
+- [Programming-Foundation-NJU](https://github.com/TangBeiYang/Programming-Foundation-NJU)
+- [SICP-note-NJU](https://github.com/TangBeiYang/Structure-and-Interpretation-of-Computer-Programs-NJU)
+- [Algorithms-Learning](https://github.com/TangBeiYang/Algorithms-Learning)
 ## Personal projects
 ### Course projects
 - [SICP-Study-Projects](https://github.com/TangBeiYang/Structure-and-Interpretation-of-Computer-Programs-NJU/tree/main/SICP-projects)
