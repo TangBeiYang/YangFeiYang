@@ -16,6 +16,9 @@
 - [SICP-Study-Projects](https://github.com/TangBeiYang/Structure-and-Interpretation-of-Computer-Programs-NJU/tree/main/SICP-projects)
 - [Programming-Foundation-Projects](https://github.com/TangBeiYang/Programming-Foundation-NJU/tree/main/project)
 
+### Personal Tool Projects
+- [Study-Compass](https://github.com/TangBeiYang/study-compass)
+
 ## GitHub Statistics
 
 <p align="center">
