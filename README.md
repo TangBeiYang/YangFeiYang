@@ -12,7 +12,7 @@
 - [12-Week-Study-Plan-for-Mathematical-Modeling-Competition](https://github.com/TangBeiYang/12-week-study-plan-for-mathematical-modeling-competition)
 
 ## Personal Projects
-### Course projects
+### Course Projects
 - [SICP-Study-Projects](https://github.com/TangBeiYang/Structure-and-Interpretation-of-Computer-Programs-NJU/tree/main/SICP-projects)
 - [Programming-Foundation-Projects](https://github.com/TangBeiYang/Programming-Foundation-NJU/tree/main/project)
 
