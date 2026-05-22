@@ -7,6 +7,7 @@
 ## Learning Repositories
 - [Programming-Foundation-NJU](https://github.com/TangBeiYang/Programming-Foundation-NJU)
 - [SICP-note-NJU](https://github.com/TangBeiYang/Structure-and-Interpretation-of-Computer-Programs-NJU)
+- [DLCO_2026_Spring_Lab_Logisim](https://github.com/TangBeiYang/NJU_DLCO_2026_Spring_Lab_Logisim)
 - [Algorithms-Learning](https://github.com/TangBeiYang/Algorithms-Learning)
 - [Algorithm-Training-Record](https://github.com/TangBeiYang/algorithm-training-record)
 - [12-Week-Study-Plan-for-Mathematical-Modeling-Competition](https://github.com/TangBeiYang/12-week-study-plan-for-mathematical-modeling-competition)
